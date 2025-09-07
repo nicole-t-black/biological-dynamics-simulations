@@ -1,6 +1,6 @@
 # Biological Dynamics Simulations
 
-This repository contains Python implementations and analyses of various biological dynamical systems from HW 4, exploring population genetics, predator-prey dynamics, oscillatory behaviors, chaos, and gene regulatory networks.
+This repository contains Python implementations and analyses of various biological dynamical systems, exploring population genetics, predator-prey dynamics, oscillatory behaviors, chaos, and gene regulatory networks.
 
 ## Contents
 
